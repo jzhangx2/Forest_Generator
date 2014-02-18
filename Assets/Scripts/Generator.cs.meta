@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa2525d2023180148904dd5c2272cb15
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bambooPrefab1: {fileID: 400000, guid: 90d212db151ac1e43a251ea40025351b, type: 3}
+  - treePrefab1: {fileID: 400020, guid: 297240592f539a54aa6f01977798ed99, type: 3}
+  - treePrefab2: {fileID: 400000, guid: f49840dfc498c2146bcbe47ec07e836d, type: 3}
+  - treePrefab3: {fileID: 400000, guid: a77c817652642034c9b3981555b1b1fe, type: 3}
+  - treePrefab4: {fileID: 400000, guid: deddfde1ffd2c754d9289bdf12b6e418, type: 3}
+  - treePrefab5: {fileID: 400004, guid: 600915682e85b6245a43b93739f20e3a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
