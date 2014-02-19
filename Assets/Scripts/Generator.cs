@@ -42,6 +42,9 @@ public class Generator : MonoBehaviour {
 			}
 			// increment counter
 			counter++;	
-		}		
+		}	
+		if (Input.GetKey (KeyCode.Space)) {
+			Application.LoadLevel (0);
+		}
 	}
 }
